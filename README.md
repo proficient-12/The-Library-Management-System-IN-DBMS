@@ -14,3 +14,9 @@ Issue_Return Table: Records the transactions when a book is issued or returned, 
 This project helps librarians easily add, update, or retrieve records without paperwork. By using SQL commands such as CREATE, INSERT, UPDATE, and SELECT, the system ensures accurate and organized data management.
 
 It demonstrates the use of database normalization, relationships (foreign keys), and query operations—making it a practical example of how relational databases are applied in real-world management systems.
+
+Conclusion:
+The Library Management System provides an efficient way to manage library data.
+It eliminates manual record keeping, reduces errors, and saves time.
+By using SQL and relational database concepts, it ensures data integrity, security, and quick access to information.
+It can easily be expanded with a user interface for real-world use.
